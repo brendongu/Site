@@ -3,7 +3,7 @@ title = "Work"
 description = "Some things I've worked on"
 +++
 
-## <span class="emphB">Tableau Iron Viz 2020</span>
+## <span class="emphR">Tableau Iron Viz 2020</span>
 
 I submitted a visualization to the 2020 Tableau Iron Viz Qualifier!
 <figure>
@@ -19,7 +19,7 @@ _____
 
 &nbsp;
 
-## <span class="emphB">ML Algorithm Implementation</span>
+## <span class="emphR">ML Algorithm Implementation</span>
 
 As part of the course 10-301 Introduction to Machine Learning, I implemented several ML algorithms from scratch using Python and numpy including:
 - decision trees
@@ -36,7 +36,7 @@ _____
 
 &nbsp; 
 
-## <span class = "emphB">Big Data Bowl</span>
+## <span class = "emphR">Big Data Bowl</span>
 With my partner Peter Wu, I participated in the 2019 Big Data Bowl, a sports analytics contest in which contestants used NFL player tracking data to analyze and rethink trends and player performance. 
 
 Our team was selected as one of **four college finalists** for this event and we were able to present our findings to members of the NFL league office, team executives, and league sponsors at the 2019 NFL Combine in Indianapolis, which was an awesome experience.
