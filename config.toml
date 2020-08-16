@@ -1,0 +1,34 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Brendon Gu"
+theme = "kube"
+description = "Personal Website"
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "Brendon Gu"
+  github = "brendongu"
+  linkedin = "bkgu"
+  twitter = "brendon_gu"
+  email = "brendongu@gmail.com"
+
+
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
+[[menu.main]]
+    name = "Blog"
+    weight = 2
+    url = "/blog/"
+[[menu.main]]
+    name = "Work"
+    weight = 3
+    url = "/work/"
+[[menu.main]]
+    name = "Resume"
+    weight = 4
+    url = "/resume/"
+
+[markup.goldmark.renderer]
+  unsafe = true

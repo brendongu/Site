@@ -1,0 +1,13 @@
+<div class="hide-sm" id="top">
+  <div id="top-brand">
+    <a href="/" title="home">Home</a>
+  </div>
+  <nav id="top-nav-main">
+    <ul>
+     {{ $currentPage := . }}
+     {{ range .Site.Menus.main }}
+     <li><a href="{{ .URL }}">{{ .Name }}</a></li>  <!-- {{if  $currentPage.IsMenuCurrent "main" . }} class="active"{{end}} -->
+     {{end}}
+   </ul>
+ </nav>
+</div>
