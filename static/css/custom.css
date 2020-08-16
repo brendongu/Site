@@ -7,6 +7,10 @@ h1.title, h1, h2, h3, h4, h5, h6, p, li{
   font-family: 'Barlow', sans-serif; 
   text-align: left;}
 
+.footer-li{
+  text-align: center;
+}
+
 body {
   font-size: 20px;
 }
@@ -83,7 +87,7 @@ figure figcaption{
   padding: 12px 25px;
 }
 
-#top #top-nav-main li, #top #top-nav-main a, #top #top-brand a{
+#top #top-nav-main li, #top #top-nav-main a, #top #top-brand a, #nav-toggle-brand a{
   font-size: 20px;
   font-weight: 500;
   margin-right: 30px;
@@ -109,15 +113,7 @@ figure figcaption{
   transition: all linear 0.2s;
   color: rgba(0, 0, 0, 0.6);
   text-decoration: underline; }
-/*
-#footer {
-  border-top: 1px solid rgba(0, 0, 0, 0.3);
-}
 
-#top {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
-}
-*/
 hr {
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
