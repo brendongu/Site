@@ -14,6 +14,8 @@ I submitted a visualization to the 2020 Tableau Iron Viz Qualifier!
 I gathered and compiled data about diets and created a long-form interactive visualization in Tableau for the qualifier competition. 
 You can find the link to the full visualization [here](https://tabsoft.co/3a1gUIf)!
 
+## **Update:** I was chosen as a Runner-Up! I placed 6th overall out of over 370 entrants. Check out the Tableau blog post [here](tabsoft.co/3580qh8).  
+
 &nbsp; 
 _____
 
