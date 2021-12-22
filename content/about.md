@@ -12,13 +12,13 @@ title = "About Me"
 
 <div style="margin-top: auto; margin-bottom: auto;">
 <h2>
-Hi! My name is Brendon, and I'm a junior at Carnegie Mellon University majoring in mathematics with a statistics concentration. I also plan on minoring in computer science and computational finance. Some things I'm interested in are <span class="emphR">data visualization</span>, <span class="emphR">sports analytics</span> (especially baseball), and <span class="emphR">discrete math</span>. 
+Hi! My name is Brendon, and I'm a senior at Carnegie Mellon University majoring in mathematics with a statistics concentration. I'm also minoring in computer science. Some things I'm interested in are <span class="emphR">data visualization</span>, <span class="emphR">sports analytics</span> (especially baseball), and <span class="emphR">discrete math</span>. 
 </h2>
 
 &nbsp; 
 
 <h2>
-At CMU I also play <a href = "https://www.andrew.cmu.edu/user/ultimate/yuk/">Ultimate Frisbee</a> and work as a SI Leader, where I run weekly review sessions for historically challenging math courses.
+At CMU I also play <a href = "https://www.andrew.cmu.edu/user/ultimate/yuk/">Ultimate Frisbee</a> and have worked as a SI Leader, tutor, and teaching assistant for various courses in the math, physics, statistics, and machine learning departments.
 </h2>
 
 </div>
