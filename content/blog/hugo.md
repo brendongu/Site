@@ -2,6 +2,7 @@
 date = "2020-08-16"
 title = "How I Set Up My Personal Website"
 description = "My experiences with Hugo, Netlify, and Porkbun."
+draft = true
 +++
 
 The process of setting up a personal website(this website, in fact) has been a fairly stressful and arduous one, though most of that was due to my lack of experience, not the tools I was using. This post will mostly be about the many mistakes I made and what I learned from them, but I'll also write about how this "final" site was built. 
