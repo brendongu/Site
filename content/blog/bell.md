@@ -4,7 +4,7 @@ title = "A New Bell in Town"
 description = "An article about the Pittsburgh Pirates' star slugger."
 +++
 
-This is an article I wrote for the CMU Sports Analytics Club last year. I've reuploaded and reformatted it here. The stats are outdated and Bell cooled down significantly in the second half of the 2019 season, but there was a lot of research put into this article and I'm quite proud of it. I may post a update to this article where I look at what I may have overlooked/gotten wrong in this article along with what to expect from Bell going forward.  
+This is an article I wrote for the CMU Sports Analytics Club in 2020. I've reuploaded and reformatted it here. The stats are outdated and Bell cooled down significantly in the second half of the 2019 season, but there was a lot of research put into this article and I'm quite proud of it. I may post a update to this article where I look at what I may have overlooked/gotten wrong in this article along with what to expect from Bell going forward.  
 
 _____
 

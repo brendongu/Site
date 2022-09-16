@@ -3,6 +3,33 @@ title = "Work"
 description = "Some things I've worked on"
 +++
 
+## <span class="emphR">Statistics Capstone</span>
+
+As part of the course 36-490 Undergraduate Research, I worked on a capstone project in collaboration with the Office of the Dean of Students. The project focused on identifying "high-impact" courses that are associated with increased student success, and then improving the college's understanding of the quality of these experiences and how they align with learning targets in the General Education Program.
+
+<center>
+<img src = "/Poster.jpg"/>
+</center>
+
+The poster (above) that we presented at the Meeting of the Minds, CMU's undergraduate research symposium, was chosen as the **winner of the 2021-2022 CMU Department of Statistics and Data Science Poster Competition**. 
+&nbsp; 
+_____
+
+&nbsp;
+
+## <span class="emphR">Causal Inference Research</span>
+
+As part of the course 36-318 Introduction to Causal Inference, I worked on a final project researching the method of overlap weights for causal effect estimation and conducted a simulation study to compare the performance of overlap weighting to other standard weighting methods such as inverse propensity weighting. The performance of these methods were assessed via bias, standard deviation, and confidence interval coverage on simulated datasets, and the results aligned with those found in prior published work on overlap weights. The project was also extended by checking via simulation that the sandwich-based variance estimator for the estimated treatment effect is consistent.
+
+<center>
+<img src = "/estimands.jpg"/>
+</center>
+
+&nbsp; 
+_____
+
+&nbsp;
+
 ## <span class="emphR">Tableau Iron Viz 2020</span>
 
 I submitted a visualization to the 2020 Tableau Iron Viz Qualifier!
@@ -14,7 +41,7 @@ I submitted a visualization to the 2020 Tableau Iron Viz Qualifier!
 I gathered and compiled data about diets and created a long-form interactive visualization in Tableau for the qualifier competition. 
 You can find the link to the full visualization [here](https://tabsoft.co/3a1gUIf)!
 
-**Update:** I was chosen as a Runner-Up! I placed 6th overall out of over 370 entrants. Check out the Tableau blog post [here](https://tabsoft.co/3580qh8).  
+**Update:** I was chosen as a Runner-Up! I placed **6th overall** out of over 370 entrants. Check out the Tableau blog post [here](https://tabsoft.co/3580qh8).  
 
 &nbsp; 
 _____
@@ -39,7 +66,7 @@ _____
 &nbsp; 
 
 ## <span class = "emphR">Big Data Bowl</span>
-With my partner Peter Wu, I participated in the 2019 Big Data Bowl, a sports analytics contest in which contestants used NFL player tracking data to analyze and rethink trends and player performance. 
+With my partner Peter Wu, I participated in the 2019 Big Data Bowl, a sports analytics competition in which contestants used NFL player tracking data to analyze and rethink player performance. 
 
 Our team was selected as one of **four college finalists** for this event and we were able to present our findings to members of the NFL league office, team executives, and league sponsors at the 2019 NFL Combine in Indianapolis, which was an awesome experience.
 
