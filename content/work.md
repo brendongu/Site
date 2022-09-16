@@ -7,11 +7,12 @@ description = "Some things I've worked on"
 
 As part of the course 36-490 Undergraduate Research, I worked on a capstone project in collaboration with the Office of the Dean of Students. The project focused on identifying "high-impact" courses that are associated with increased student success, and then improving the college's understanding of the quality of these experiences and how they align with learning targets in the General Education Program.
 
-<center>
-<img src = "/Poster.jpg"/>
-</center>
+<figure>
+  <img src="/Poster.jpg"/> 
+  <figcaption>Project Poster - "Mapping High-Impact Practices in Dietrich College"</figcaption>
+</figure>
 
-The poster (above) that we presented at the Meeting of the Minds, CMU's undergraduate research symposium, was chosen as the **winner of the 2021-2022 CMU Department of Statistics and Data Science Poster Competition**. 
+The project poster (above) was chosen as the **winner of the 2021-2022 CMU Department of Statistics and Data Science Poster Competition**. 
 &nbsp; 
 _____
 
@@ -19,11 +20,13 @@ _____
 
 ## <span class="emphR">Causal Inference Research</span>
 
-As part of the course 36-318 Introduction to Causal Inference, I worked on a final project researching the method of overlap weights for causal effect estimation and conducted a simulation study to compare the performance of overlap weighting to other standard weighting methods such as inverse propensity weighting. The performance of these methods were assessed via bias, standard deviation, and confidence interval coverage on simulated datasets, and the results aligned with those found in prior published work on overlap weights. The project was also extended by checking via simulation that the sandwich-based variance estimator for the estimated treatment effect is consistent.
+As part of the course 36-318 Introduction to Causal Inference, I worked on a final project researching the method of overlap weights for causal effect estimation and conducted a simulation study to compare the performance of overlap weighting to other standard weighting methods such as inverse propensity weighting. 
 
 <center>
-<img src = "/estimands.jpg"/>
+<img src = "/estimands.png"/>
 </center>
+
+The performance of these methods were assessed by computing bias, standard deviation, and confidence interval coverage on simulated datasets, and the results aligned with those found in prior published work on overlap weights. The project was also extended by checking via simulation that the sandwich-based variance estimator for the estimated treatment effect is consistent.
 
 &nbsp; 
 _____
