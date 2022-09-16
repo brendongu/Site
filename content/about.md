@@ -10,7 +10,7 @@ title = "About Me"
 
 <div style="margin-top: auto; margin-bottom: auto;">
 <h2>
-Hi! My name is Brendon. I'm a recent graduate of Carnegie Mellon University, where I majored in mathematics with a statistics concentration, and minored in computer science. Currently, I am a master's student in the Statistics Department at Stanford University, with expected graduation date March 2024. 
+Hi! My name is Brendon. I'm a recent graduate of <span class="emphR">Carnegie Mellon University</span>, where I majored in mathematics with a statistics concentration, and minored in computer science. Currently, I am a master's student in the Statistics Department at <span class="emphR">Stanford University</span>, with expected graduation date March 2024. 
 </h2>
 
 &nbsp; 
